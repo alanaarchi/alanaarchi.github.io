@@ -1,151 +1,35 @@
-/**** ABOUT ****/
-li#about-link a.nav-current {
-    border-color: #f66152;
+.heading {
+	text-align:center;
+}
+h1 {
+	font-family: Sacramento;
+	text-align:center;
+	letter-spacing: 0;
+	margin-top:10px;
+	margin-bottom:-10px;
 }
 
-li#about-link a.nav-current h3,
-li#about-link a.nav-current i {
-    color: #f66152;
+.container {
+	margin-top:50px;
 }
 
-#about,
-#about .cat-pages-title h2 {
-    background-color: #f66152;
+h6 {
+	text-align:center;
+	text-transform: uppercase;
+	letter-spacing:3px;
+	font-style:normal;
+	font-size:1.8rem;
 }
 
-.single-about-page .menu a:hover {
-    color: #f66152;
+.profile {
+	margin: auto 0;
+	width:300px;
 }
 
-.single-about-page .sidebar a:hover {
-    color: #f66152;
-}
-
-/**** RESUME ****/
-li#resume-link a.nav-current {
-    border-color: #d7af0d;
-}
-
-li#resume-link a.nav-current h3,
-#resume-link a.nav-current i {
-    color: #d7af0d;
-}
-
-#resume,
-#resume .cat-pages-title h2 {
-    background-color: #d7af0d;
-}
-
-.timeline h3 {
-    border-bottom-color: #f6db6d;
-}
-
-.timeline-left ul {
-    border-right-color: #f6db6d;
-}
-
-.timeline ul li span:before {
-    border-color: #f6db6d;
-}
-
-.timeline ul li span:after {
-    background-color: #f6db6d;
-}
-
-.single-resume-page .menu a:hover {
-    color: #d7af0d;
-}
-
-.single-resume-page .sidebar a:hover {
-    color: #d7af0d;
-}
-
-/**** PORTFOLIO ****/
-li#portfolio-link a.nav-current {
-    border-color: #3498db;
-}
-
-li#portfolio-link a.nav-current h3,
-#portfolio-link a.nav-current i {
-    color: #3498db;
-}
-
-#portfolio,
-#portfolio .cat-pages-title h2 {
-    background-color: #3498db;
-}
-
-.quotes ul {
-    border-color: #a0cfee;
-}
-
-.quotes ul:before {
-    background-color: #3498db;
-}
-
-ol.bjqs-markers li a {
-    background-color: #a0cfee;
-}
-
-ol.bjqs-markers li.active-marker {
-    border-color: #a0cfee;
-}
-
-.single-portfolio-page .menu a:hover {
-    color: #3498db;
-}
-
-.single-portfolio-page .sidebar a:hover {
-    color: #3498db;
-}
-
-/**** BLOG ****/
-li#blog-link a.nav-current {
-    border-color: #2cc16b;
-}
-
-li#blog-link a.nav-current h3,
-#blog-link a.nav-current i {
-    color: #2cc16b;
-}
-
-#blog,
-#blog .cat-pages-title h2,
-.blog-single-title h2 {
-    background-color: #2cc16b;
-}
-
-.ajax-popup {
-    background-color: #2cc16b;
-}
-
-.single-blog-page .menu a:hover {
-    color: #2cc16b;
-}
-
-.single-blog-page .sidebar a:hover {
-    color: #2cc16b;
-}
-
-/**** CONTACT ****/
-li#contact-link a.nav-current {
-    border-color: #424242;
-}
-
-li#contact-link a.nav-current h3,
-#contact-link a.nav-current i {
-    color: #424242;
-}
-
-#contact,
-#contact .cat-pages-title h2 {
-    background-color: #424242;
-}
-
-.single-contact-page .menu a:hover {
-    color: #424242;
-}
-
-.single-contact-page .sidebar a:hover {
-    color: #424242;
+h3 {
+	text-align:center;
+	text-transform: uppercase;
+	letter-spacing:3px;
+	font-style:normal;
+	font-size:2.5rem;
 }
